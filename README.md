@@ -1,6 +1,6 @@
 # Análise de Desempenho de Vendas e Logística - Projeto US Superstore
 
-![Design sem nome](https://github.com/user-attachments/assets/a63364e7-e81b-4a55-a44c-6d2c02eb760c)
+![Imagem logistica](https://github.com/user-attachments/assets/a63364e7-e81b-4a55-a44c-6d2c02eb760c)
 
 Este projeto consiste em uma análise detalhada dos dados de vendas de uma loja de varejo utilizando técnicas de visualização e exploração de dados. Abaixo, você encontrará um resumo dos principais insights e recomendações para otimização das operações, com uma análise estruturada em três tópicos principais: Vendas e Desempenho dos Produtos, Segmentação de Clientes e Eficiência de Remessa. Para cada tópico, é fornecida uma visualização gráfica para melhor compreensão dos resultados.
 
