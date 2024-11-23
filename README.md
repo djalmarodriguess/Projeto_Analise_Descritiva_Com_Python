@@ -118,3 +118,11 @@ A análise trouxe as seguintes recomendações principais:
 ## Observações Finais
 
 As visualizações gráficas foram incluídas para cada tópico para facilitar a interpretação dos dados. Essas imagens ilustram os principais insights e suportam as recomendações fornecidas, permitindo um entendimento visual das informações.
+
+---
+
+## 📧 Contato
+
+- **Confira meu** [Portifólio](https://www.datascienceportfol.io/djalmarodrigues1206)  
+- **Veja meu** [LinkedIn](https://www.linkedin.com/in/djalma-rodrigues/)  
+- **Conheça meu** [GitHub](https://github.com/djalmarodriguess)
